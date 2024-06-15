@@ -2,9 +2,7 @@ WEB DEVELOPMENT
 
 TASK LIST
 
-Here is the list of levels and tasks as provided in the PDF:
-
-    Level 1
+Level-1
 1. **Landing Page**
    - Create a landing page using HTML and CSS.
    - Focus on columns, sections, headers, footers, alignments, padding, color palette, and CSS elements.
