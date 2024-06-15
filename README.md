@@ -56,13 +56,22 @@ With basic knowledge of HTML and CSS, you can create a webpage dedicated to some
 Build a job board website where employers can post job openings and job seekers can search and apply for jobs. Use React, Node.js, and a database like MongoDB or PostgreSQL
 
 Home Page: Welcome message and featured job listings. 
+
 **Job Listings Page:** List of job openings with essential details. 
+
 **Job Detail Page:** Detailed information about a specific job. 
+
 **Employer Dashboard:** Account management and job posting. 
+
 **Candidate Dashboard:** Profile management and job applications. 
+
 **Job Application Process:** Application form with resume upload. 
+
 **Search Functionality:** Search bar for finding specific jobs. 
-**Email Notifications:** Notifications for successful applications and updates. User Authentication and Security: Secure user login and data protection. Mobile Responsiveness: Website works well on different devices. 
+
+**Email Notifications:** Notifications for successful applications and updates. User Authentication and Security: Secure user login and data protection. Mobile Responsiveness: Website 
+works well on different devices. 
+
 Host the website at 000webhost, github.io,Netlify, heroku app or any other free hosting provider. Check in code in gitlab. (optional) 
 ____________________________________________________________________________________
 **LEVEL 3 TASK 1**
@@ -88,8 +97,9 @@ Set up the server-side infrastructure using a programming language like Node.js,
 **8. Mobile-Friendly Design:** Ensure the platform is responsive and optimized for mobile devices. 9.Host the website at 000webhost, github.io,Netlify, heroku app or any other free hosting provider. Check in code in gitlab. (optional)
 
 
-**LEVEL 3 TASK 2 **
-**Project Management Tool: **
+**LEVEL 3 TASK 2**
+
+**Project Management Tool:**
 
 Develop a project management tool that allows users to create projects, assign tasks, set deadlines, and track progress. Use React, Node.js, and a database like MongoDB or PostgreSQL. 
 Host the website at 000webhost, github.io,Netlify, heroku app or any other free hosting provider. Check in code in gitlab.
